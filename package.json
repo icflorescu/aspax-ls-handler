@@ -1,8 +1,9 @@
 {
   "name": "aspax-ls-handler",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Plugin enabling ASPAX to handle LiveScript files.",
   "repository": "git://github.com/icflorescu/aspax-ls-handler",
+  "homepage": "http://aspax.github.io",
   "keywords": [
     "aspax",
     "ls",
