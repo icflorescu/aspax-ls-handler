@@ -1,4 +1,5 @@
 ## What's this?
+
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [LiveScript](http://livescript.net) files.
 
 ## Installation
