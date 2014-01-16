@@ -1,9 +1,7 @@
 {
   "name": "aspax-ls-handler",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "Plugin enabling ASPAX to handle LiveScript files.",
-  "repository": "git://github.com/icflorescu/aspax-ls-handler",
-  "homepage": "http://aspax.github.io",
   "keywords": [
     "aspax",
     "ls",
@@ -11,13 +9,27 @@
     "js",
     "compilation"
   ],
+  "dependencies": {
+    "LiveScript": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.8.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icflorescu/aspax-ls-handler"
+  },
+  "bugs": {
+    "url": "https://github.com/icflorescu/aspax-ls-handler/issues"
+  },
   "author": {
     "name": "Ionut-Cristian Florescu",
     "email": "ionut.florescu@gmail.com",
     "url": "https://coderwall.com/icflorescu"
   },
-  "license": "MIT",
-  "dependencies": {
-    "LiveScript": "~1.2.0"
-  }
+  "contributors": [{
+    "name": "Ionut-Cristian Florescu",
+    "email": "ionut.florescu@gmail.com"
+  }],
+  "license": "MIT"
 }
