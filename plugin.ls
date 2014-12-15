@@ -1,6 +1,6 @@
 require! {
   fs
-  live: LiveScript
+  LiveScript: live
 }
 
 exports.compile = (file, flags, callback) ->
