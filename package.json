@@ -1,6 +1,6 @@
 {
   "name": "aspax-ls-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plugin enabling ASPAX to handle LiveScript files.",
   "keywords": [
     "aspax",
@@ -10,7 +10,7 @@
     "compilation"
   ],
   "dependencies": {
-    "livescript": "^1.4.0"
+    "livescript": "^1.5.0"
   },
   "engines": {
     "node": ">=0.8.16"
